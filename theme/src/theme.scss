@@ -1,0 +1,17 @@
+@use '../../colors/src/colors';
+@use '../../typography/src/typography';
+@use '../../spacing/src/spacing';
+@use '../../elevation/src/elevation';
+@use '../../border-radius/src/border-radius';
+@use '../../transition/src/transition';
+@use '../../z-index/src/z-index';
+
+.sl-theme-ds {
+  @extend %colors;
+  @extend %typography;
+  @extend %spacing;
+  @extend %elevation;
+  @extend %border-radius;
+  @extend %transition;
+  @extend %z-index;
+}

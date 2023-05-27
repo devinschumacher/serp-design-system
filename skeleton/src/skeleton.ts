@@ -1,0 +1,1 @@
+export { SlSkeleton } from '@shoelace-style/shoelace/dist/shoelace.js';

@@ -1,0 +1,16 @@
+{
+  "name": "@backlight-dev/serp.kicks-li5e5yvf",
+  "version": "0.0.0",
+  "description": "A Shoelace based design system as a starter kit for Backlight",
+  "license": "MIT",
+  "scripts": {
+    "serve": "npx backlight@latest serve 3n17EAWHX0Ton9Hk1EBm --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.2.1",
+    "lit-html": "^1.4.1"
+  },
+  "dependencies": {
+    "@shoelace-style/shoelace": "^2.0.0-beta.58"
+  }
+}

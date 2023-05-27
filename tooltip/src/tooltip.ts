@@ -1,0 +1,1 @@
+export { SlTooltip } from '@shoelace-style/shoelace/dist/shoelace.js';
